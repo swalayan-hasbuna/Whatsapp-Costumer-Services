@@ -1,7 +1,7 @@
 # Costumer-Service-Whatsapp
 "Whatsapp CS" App ini cocok untuk Helpdesk/ Costumer Service menggunakan sistem Tiket yang sangat sederhana menggunakan pesan WhatsApp.
 
-Untuk Bantuan Instalasi, Silahkan Hubungi : 
+Untuk Bantuan Instalasi, Klik link dibawah ini : 
 
 <a href="https://wa.me/6287788934569/" target="_blank">WA ME !!!</a>
 
